@@ -39,9 +39,14 @@ body {
     justify-content: center;
 }
 
+.title img{
+    width: 15%;
+}
+
 .title h1{
     text-align: center;
     font-size: 1.6rem;
+    margin-top: 10px;
 }
 
 .title .line{
